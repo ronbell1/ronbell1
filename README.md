@@ -1,22 +1,5 @@
-<p align="center">
-  <img
-    src="https://capsule-render.vercel.app/api
-      ?type=rounded
-      &height=200
-      &color=0:022c25,30:064e3b,65:0f766e,100:134e4a
-      &text=Rohan%20Singh
-      &fontSize=46
-      &fontColor=eafff7
-      &fontAlignY=55
-      &animation=twinkling
-      &stroke=2ee7c9
-      &strokeWidth=1
-    "
-  />
-</p>
-
 <h1 align="center">
-  Hey, I'm Rohan Singh 👋
+  Hey, I'm Rohan Singh Aswal
 </h1>
 
 <p align="center">
@@ -65,17 +48,11 @@
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ronbell1&theme=dracula&hide_border=false" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=ronbell1&theme=dracula&row=1&column=6" />
-</p>
+</div> <div align="center"> <img src="https://streak-stats.demolab.com?user=ronbell1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 
 ---
 
-### 🟡 Contribution Graph (Animated)
+### 🟡 Commits
 
 <p align="center">
   <picture>
